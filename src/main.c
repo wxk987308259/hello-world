@@ -6,6 +6,11 @@
 int main()
 {
 	printf("Only a test!\n");
+	
+	while(1)
+	{
+		printf("I Love You!\n");
+	}
 
 	return 0;
 }
